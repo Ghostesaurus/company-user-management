@@ -1,0 +1,19 @@
+{
+  "name": "company-user-management",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostesaurus/company-user-management.git"
+  },
+  "author": "O. M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ghostesaurus/company-user-management/issues"
+  },
+  "homepage": "https://github.com/Ghostesaurus/company-user-management#readme"
+}
