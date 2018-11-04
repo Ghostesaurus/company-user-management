@@ -1,0 +1,14 @@
+import * as React from "react";
+
+class App extends React.Component {
+    public render() {
+        return (
+            <div className="App">
+                <h1>Hello World!!!!!!</h1>
+                <div></div>
+            </div>
+        );
+    }
+}
+
+export default App;
